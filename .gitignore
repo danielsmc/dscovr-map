@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+.DS_Store
+.venv
+images
+warped
+all_imgs.json
+scratch
+*.mp4
+*.ffconcat
+*.pyc
